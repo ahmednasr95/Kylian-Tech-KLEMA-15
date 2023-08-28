@@ -1,0 +1,1118 @@
+Archive member included to satisfy reference by file (symbol)
+
+e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(addsf3.o)
+                              EHAL/LCD_4x20/LCD_Interface.o (__subsf3)
+e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(addsf3x.o)
+                              e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(addsf3.o) (__addsf3x)
+e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(cmpsf2.o)
+                              EHAL/LCD_4x20/LCD_Interface.o (__ltsf2)
+e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fixsfdi.o)
+                              EHAL/LCD_4x20/LCD_Interface.o (__fixsfdi)
+e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(floatdisf.o)
+                              EHAL/LCD_4x20/LCD_Interface.o (__floatdisf)
+e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(floatundisf.o)
+                              e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(floatdisf.o) (__fp_di2sf)
+e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_cmp.o)
+                              e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(cmpsf2.o) (__fp_cmp)
+e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_inf.o)
+                              e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(addsf3x.o) (__fp_inf)
+e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_nan.o)
+                              e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(addsf3x.o) (__fp_nan)
+e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_negdi.o)
+                              e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fixsfdi.o) (__fp_negdi)
+e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_pscA.o)
+                              e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(addsf3x.o) (__fp_pscA)
+e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_pscB.o)
+                              e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(addsf3x.o) (__fp_pscB)
+e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_round.o)
+                              e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(addsf3.o) (__fp_round)
+e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_split3.o)
+                              e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(addsf3x.o) (__fp_split3)
+e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_zero.o)
+                              e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(addsf3x.o) (__fp_zero)
+e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(mulsf3.o)
+                              EHAL/LCD_4x20/LCD_Interface.o (__mulsf3)
+e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(mulsf3x.o)
+                              e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(mulsf3.o) (__mulsf3x)
+e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_copy_data.o)
+                              APPLICATION/APP_Interface.o (__do_clear_bss)
+e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_divdi3.o)
+                              EHAL/LCD_4x20/LCD_Interface.o (__moddi3)
+e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_udivdi3.o)
+                              e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_divdi3.o) (__udivdi3_umoddi3)
+e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_udivmod64.o)
+                              e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_divdi3.o) (__udivmod64)
+e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_negdi2.o)
+                              EHAL/LCD_4x20/LCD_Interface.o (__negdi2)
+e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_prologue.o)
+                              e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_divdi3.o) (__prologue_saves__)
+e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_epilogue.o)
+                              e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_divdi3.o) (__epilogue_restores__)
+e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_cmpdi2_s8.o)
+                              EHAL/LCD_4x20/LCD_Interface.o (__cmpdi2_s8)
+e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(exit.o)
+                              E:/Programs/Microchip Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/xc8/avr/lib/avr5/memx-const/crtatmega32a.o (exit)
+e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(_Exit.o)
+                              e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(exit.o) (_Exit)
+e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_exit.o)
+                              e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(_Exit.o) (_exit)
+
+Allocating common symbols
+Common symbol       size              file
+
+Previous_State      0x1               APPLICATION/APP_Interface.o
+Current_State       0x1               APPLICATION/APP_Interface.o
+
+Discarded input sections
+
+ .data          0x0000000000000000        0x0 E:/Programs/Microchip Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/xc8/avr/lib/avr5/memx-const/crtatmega32a.o
+ .bss           0x0000000000000000        0x0 E:/Programs/Microchip Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/xc8/avr/lib/avr5/memx-const/crtatmega32a.o
+ .text          0x0000000000000000        0x0 APPLICATION/APP_Interface.o
+ .data          0x0000000000000000        0x0 APPLICATION/APP_Interface.o
+ .bss           0x0000000000000000        0x0 APPLICATION/APP_Interface.o
+ .text          0x0000000000000000        0x0 EHAL/BLUE LED/BLUE_LED_Interface.o
+ .data          0x0000000000000000        0x0 EHAL/BLUE LED/BLUE_LED_Interface.o
+ .bss           0x0000000000000000        0x0 EHAL/BLUE LED/BLUE_LED_Interface.o
+ .text.BLUE_LED_TGL
+                0x0000000000000000        0xc EHAL/BLUE LED/BLUE_LED_Interface.o
+ .text          0x0000000000000000        0x0 EHAL/LCD_4x20/LCD_Interface.o
+ .data          0x0000000000000000        0x0 EHAL/LCD_4x20/LCD_Interface.o
+ .bss           0x0000000000000000        0x0 EHAL/LCD_4x20/LCD_Interface.o
+ .text.LCD_Write_Number
+                0x0000000000000000      0x1d0 EHAL/LCD_4x20/LCD_Interface.o
+ .text.LCD_Write_FloatNumber
+                0x0000000000000000      0x21a EHAL/LCD_4x20/LCD_Interface.o
+ .text.LCD_Write_SpecialCharacter
+                0x0000000000000000        0x8 EHAL/LCD_4x20/LCD_Interface.o
+ .text          0x0000000000000000        0x0 EHAL/Potentiometer/Potentiometer_Interface.o
+ .data          0x0000000000000000        0x0 EHAL/Potentiometer/Potentiometer_Interface.o
+ .bss           0x0000000000000000        0x0 EHAL/Potentiometer/Potentiometer_Interface.o
+ .text          0x0000000000000000        0x0 main.o
+ .data          0x0000000000000000        0x0 main.o
+ .bss           0x0000000000000000        0x0 main.o
+ .text          0x0000000000000000        0x0 MCAL/ADC/ADC_Interface.o
+ .data          0x0000000000000000        0x0 MCAL/ADC/ADC_Interface.o
+ .bss           0x0000000000000000        0x0 MCAL/ADC/ADC_Interface.o
+ .text.ADC_INT_Read
+                0x0000000000000000       0x3a MCAL/ADC/ADC_Interface.o
+ .text          0x0000000000000000        0x0 MCAL/DIO/DIO_Interface.o
+ .data          0x0000000000000000        0x0 MCAL/DIO/DIO_Interface.o
+ .bss           0x0000000000000000        0x0 MCAL/DIO/DIO_Interface.o
+ .text.DIO_TglPin_Value
+                0x0000000000000000       0x74 MCAL/DIO/DIO_Interface.o
+ .text.DIO_GetPin_Value
+                0x0000000000000000       0x74 MCAL/DIO/DIO_Interface.o
+ .text.DIO_SetPin_PULLUP
+                0x0000000000000000       0x74 MCAL/DIO/DIO_Interface.o
+ .text          0x0000000000000000        0x0 MCAL/Interrupts/External/EXT_INT_Interface.o
+ .data          0x0000000000000000        0x0 MCAL/Interrupts/External/EXT_INT_Interface.o
+ .bss           0x0000000000000000        0x0 MCAL/Interrupts/External/EXT_INT_Interface.o
+ .text.INT_0_INIT
+                0x0000000000000000       0x3c MCAL/Interrupts/External/EXT_INT_Interface.o
+ .text.INT_1_INIT
+                0x0000000000000000       0x3c MCAL/Interrupts/External/EXT_INT_Interface.o
+ .text.INT_2_INIT
+                0x0000000000000000       0x3c MCAL/Interrupts/External/EXT_INT_Interface.o
+ .text          0x0000000000000000        0x0 MCAL/TIMERS/TIMER 0/TIMER0_Interface.o
+ .data          0x0000000000000000        0x0 MCAL/TIMERS/TIMER 0/TIMER0_Interface.o
+ .bss           0x0000000000000000        0x0 MCAL/TIMERS/TIMER 0/TIMER0_Interface.o
+ .text          0x0000000000000000        0xe e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(addsf3.o)
+ .data          0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(addsf3.o)
+ .bss           0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(addsf3.o)
+ .stack.descriptors.hdr
+                0x0000000000000000        0xe e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(addsf3.o)
+ .stack.descriptors
+                0x0000000000000000       0x2c e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(addsf3.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(addsf3.o)
+ .text          0x0000000000000000       0xce e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(addsf3x.o)
+ .data          0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(addsf3x.o)
+ .bss           0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(addsf3x.o)
+ .stack.descriptors.hdr
+                0x0000000000000000        0xe e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(addsf3x.o)
+ .stack.descriptors
+                0x0000000000000000       0x17 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(addsf3x.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(addsf3x.o)
+ .text          0x0000000000000000        0xa e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(cmpsf2.o)
+ .data          0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(cmpsf2.o)
+ .bss           0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(cmpsf2.o)
+ .stack.descriptors.hdr
+                0x0000000000000000        0xe e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(cmpsf2.o)
+ .stack.descriptors
+                0x0000000000000000       0x6a e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(cmpsf2.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(cmpsf2.o)
+ .text          0x0000000000000000       0x78 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fixsfdi.o)
+ .data          0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fixsfdi.o)
+ .bss           0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fixsfdi.o)
+ .stack.descriptors.hdr
+                0x0000000000000000        0xe e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fixsfdi.o)
+ .stack.descriptors
+                0x0000000000000000       0x31 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fixsfdi.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fixsfdi.o)
+ .text          0x0000000000000000        0xc e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(floatdisf.o)
+ .data          0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(floatdisf.o)
+ .bss           0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(floatdisf.o)
+ .stack.descriptors.hdr
+                0x0000000000000000        0xe e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(floatdisf.o)
+ .stack.descriptors
+                0x0000000000000000       0x19 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(floatdisf.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(floatdisf.o)
+ .text          0x0000000000000000       0x7c e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(floatundisf.o)
+ .data          0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(floatundisf.o)
+ .bss           0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(floatundisf.o)
+ .stack.descriptors.hdr
+                0x0000000000000000        0xe e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(floatundisf.o)
+ .stack.descriptors
+                0x0000000000000000       0x33 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(floatundisf.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(floatundisf.o)
+ .text          0x0000000000000000       0x48 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_cmp.o)
+ .data          0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_cmp.o)
+ .bss           0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_cmp.o)
+ .stack.descriptors.hdr
+                0x0000000000000000        0xe e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_cmp.o)
+ .stack.descriptors
+                0x0000000000000000       0x16 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_cmp.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_cmp.o)
+ .text          0x0000000000000000        0xc e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_inf.o)
+ .data          0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_inf.o)
+ .bss           0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_inf.o)
+ .stack.descriptors.hdr
+                0x0000000000000000        0xe e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_inf.o)
+ .stack.descriptors
+                0x0000000000000000       0x16 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_inf.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_inf.o)
+ .text          0x0000000000000000        0x6 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_nan.o)
+ .data          0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_nan.o)
+ .bss           0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_nan.o)
+ .stack.descriptors.hdr
+                0x0000000000000000        0xe e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_nan.o)
+ .stack.descriptors
+                0x0000000000000000       0x16 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_nan.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_nan.o)
+ .text          0x0000000000000000       0x20 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_negdi.o)
+ .data          0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_negdi.o)
+ .bss           0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_negdi.o)
+ .stack.descriptors.hdr
+                0x0000000000000000        0xe e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_negdi.o)
+ .stack.descriptors
+                0x0000000000000000       0x18 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_negdi.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_negdi.o)
+ .text          0x0000000000000000        0xe e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_pscA.o)
+ .data          0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_pscA.o)
+ .bss           0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_pscA.o)
+ .stack.descriptors.hdr
+                0x0000000000000000        0xe e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_pscA.o)
+ .stack.descriptors
+                0x0000000000000000       0x17 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_pscA.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_pscA.o)
+ .text          0x0000000000000000        0xe e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_pscB.o)
+ .data          0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_pscB.o)
+ .bss           0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_pscB.o)
+ .stack.descriptors.hdr
+                0x0000000000000000        0xe e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_pscB.o)
+ .stack.descriptors
+                0x0000000000000000       0x17 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_pscB.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_pscB.o)
+ .text          0x0000000000000000       0x22 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_round.o)
+ .data          0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_round.o)
+ .bss           0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_round.o)
+ .stack.descriptors.hdr
+                0x0000000000000000        0xe e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_round.o)
+ .stack.descriptors
+                0x0000000000000000       0x18 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_round.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_round.o)
+ .text          0x0000000000000000       0x44 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_split3.o)
+ .data          0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_split3.o)
+ .bss           0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_split3.o)
+ .stack.descriptors.hdr
+                0x0000000000000000        0xe e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_split3.o)
+ .stack.descriptors
+                0x0000000000000000       0x32 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_split3.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_split3.o)
+ .text          0x0000000000000000        0xe e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_zero.o)
+ .data          0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_zero.o)
+ .bss           0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_zero.o)
+ .stack.descriptors.hdr
+                0x0000000000000000        0xe e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_zero.o)
+ .stack.descriptors
+                0x0000000000000000       0x2f e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_zero.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_zero.o)
+ .text          0x0000000000000000        0x8 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(mulsf3.o)
+ .data          0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(mulsf3.o)
+ .bss           0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(mulsf3.o)
+ .stack.descriptors.hdr
+                0x0000000000000000        0xe e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(mulsf3.o)
+ .stack.descriptors
+                0x0000000000000000       0x16 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(mulsf3.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(mulsf3.o)
+ .text          0x0000000000000000       0xd4 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(mulsf3x.o)
+ .data          0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(mulsf3x.o)
+ .bss           0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(mulsf3x.o)
+ .stack.descriptors.hdr
+                0x0000000000000000        0xe e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(mulsf3x.o)
+ .stack.descriptors
+                0x0000000000000000       0x31 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(mulsf3x.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(mulsf3x.o)
+ .text          0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_copy_data.o)
+ .data          0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_copy_data.o)
+ .bss           0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_copy_data.o)
+ .text.libgcc   0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_copy_data.o)
+ .text          0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_divdi3.o)
+ .data          0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_divdi3.o)
+ .bss           0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_divdi3.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_divdi3.o)
+ .text.libgcc.div
+                0x0000000000000000       0x62 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_divdi3.o)
+ .stack.descriptors.hdr
+                0x0000000000000000        0xe e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_divdi3.o)
+ .stack.descriptors
+                0x0000000000000000       0x49 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_divdi3.o)
+ .text.libgcc   0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_divdi3.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_divdi3.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_divdi3.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_divdi3.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_divdi3.o)
+ .text          0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_udivdi3.o)
+ .data          0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_udivdi3.o)
+ .bss           0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_udivdi3.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_udivdi3.o)
+ .text.libgcc.div
+                0x0000000000000000       0x1c e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_udivdi3.o)
+ .stack.descriptors.hdr
+                0x0000000000000000        0xe e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_udivdi3.o)
+ .stack.descriptors
+                0x0000000000000000       0x4d e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_udivdi3.o)
+ .text.libgcc   0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_udivdi3.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_udivdi3.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_udivdi3.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_udivdi3.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_udivdi3.o)
+ .text          0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_udivmod64.o)
+ .data          0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_udivmod64.o)
+ .bss           0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_udivmod64.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_udivmod64.o)
+ .text.libgcc.div
+                0x0000000000000000       0xa2 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_udivmod64.o)
+ .stack.descriptors.hdr
+                0x0000000000000000        0xe e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_udivmod64.o)
+ .stack.descriptors
+                0x0000000000000000       0x19 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_udivmod64.o)
+ .text.libgcc   0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_udivmod64.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_udivmod64.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_udivmod64.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_udivmod64.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_udivmod64.o)
+ .text          0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_negdi2.o)
+ .data          0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_negdi2.o)
+ .bss           0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_negdi2.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_negdi2.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_negdi2.o)
+ .text.libgcc   0x0000000000000000       0x20 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_negdi2.o)
+ .stack.descriptors.hdr
+                0x0000000000000000        0xe e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_negdi2.o)
+ .stack.descriptors
+                0x0000000000000000       0x16 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_negdi2.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_negdi2.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_negdi2.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_negdi2.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_negdi2.o)
+ .text          0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_prologue.o)
+ .data          0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_prologue.o)
+ .bss           0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_prologue.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_prologue.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_prologue.o)
+ .text.libgcc   0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_prologue.o)
+ .text.libgcc.prologue
+                0x0000000000000000       0x38 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_prologue.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_prologue.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_prologue.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_prologue.o)
+ .text          0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_epilogue.o)
+ .data          0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_epilogue.o)
+ .bss           0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_epilogue.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_epilogue.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_epilogue.o)
+ .text.libgcc   0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_epilogue.o)
+ .text.libgcc.prologue
+                0x0000000000000000       0x36 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_epilogue.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_epilogue.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_epilogue.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_epilogue.o)
+ .text          0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_cmpdi2_s8.o)
+ .data          0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_cmpdi2_s8.o)
+ .bss           0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_cmpdi2_s8.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_cmpdi2_s8.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_cmpdi2_s8.o)
+ .text.libgcc   0x0000000000000000       0x18 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_cmpdi2_s8.o)
+ .stack.descriptors.hdr
+                0x0000000000000000        0xe e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_cmpdi2_s8.o)
+ .stack.descriptors
+                0x0000000000000000       0x19 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_cmpdi2_s8.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_cmpdi2_s8.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_cmpdi2_s8.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_cmpdi2_s8.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_cmpdi2_s8.o)
+ .text          0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(exit.o)
+ .data          0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(exit.o)
+ .bss           0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(exit.o)
+ .text          0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(_Exit.o)
+ .data          0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(_Exit.o)
+ .bss           0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(_Exit.o)
+ .text          0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_exit.o)
+ .data          0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_exit.o)
+ .bss           0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_exit.o)
+ .text.libgcc   0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_exit.o)
+ .stack.descriptors
+                0x0000000000000000       0x13 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_exit.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x0000000000000000 0x0000000000008000 xr
+data             0x0000000000800060 0x0000000000000800 rw !x
+eeprom           0x0000000000810000 0x0000000000000400 rw !x
+fuse             0x0000000000820000 0x0000000000000002 rw !x
+lock             0x0000000000830000 0x0000000000000400 rw !x
+signature        0x0000000000840000 0x0000000000000400 rw !x
+user_signatures  0x0000000000850000 0x0000000000000400 rw !x
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD E:/Programs/Microchip Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/xc8/avr/lib/avr5/memx-const/crtatmega32a.o
+LOAD APPLICATION/APP_Interface.o
+LOAD EHAL/BLUE LED/BLUE_LED_Interface.o
+LOAD EHAL/LCD_4x20/LCD_Interface.o
+LOAD EHAL/Potentiometer/Potentiometer_Interface.o
+LOAD main.o
+LOAD MCAL/ADC/ADC_Interface.o
+LOAD MCAL/DIO/DIO_Interface.o
+LOAD MCAL/Interrupts/External/EXT_INT_Interface.o
+LOAD MCAL/TIMERS/TIMER 0/TIMER0_Interface.o
+START GROUP
+LOAD e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a
+END GROUP
+START GROUP
+LOAD e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a
+LOAD e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a
+LOAD e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a
+LOAD E:/Programs/Microchip Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/xc8/avr/lib/avr5/memx-const\libatmega32a.a
+END GROUP
+                [0x0000000000000000]                __TEXT_REGION_ORIGIN__ = DEFINED (__TEXT_REGION_ORIGIN__)?__TEXT_REGION_ORIGIN__:0x0
+                [0x0000000000800060]                __DATA_REGION_ORIGIN__ = DEFINED (__DATA_REGION_ORIGIN__)?__DATA_REGION_ORIGIN__:0x800060
+                [0x0000000000008000]                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x20000
+                [0x0000000000000800]                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xffa0
+                [0x0000000000000400]                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x0000000000000002]                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x0000000000000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x0000000000000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x0000000000000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x0000000000000000       0xae
+ *(.vectors)
+ .vectors       0x0000000000000000       0x54 E:/Programs/Microchip Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/xc8/avr/lib/avr5/memx-const/crtatmega32a.o
+                0x0000000000000000                __vector_default
+                0x0000000000000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+ *(.dinit)
+ .dinit         0x0000000000000054        0x5 data_init
+                0x000000000000005a                . = ALIGN (0x2)
+ *fill*         0x0000000000000059        0x1 
+                0x000000000000005a                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x000000000000005a        0x0 linker stubs
+ *(.trampolines*)
+                0x000000000000005a                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+                0x000000000000005a                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x000000000000005a                __ctors_start = .
+ *(.ctors)
+                0x000000000000005a                __ctors_end = .
+                0x000000000000005a                __dtors_start = .
+ *(.dtors)
+                0x000000000000005a                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x000000000000005a        0x0 E:/Programs/Microchip Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/xc8/avr/lib/avr5/memx-const/crtatmega32a.o
+                0x000000000000005a                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x000000000000005a        0xc E:/Programs/Microchip Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/xc8/avr/lib/avr5/memx-const/crtatmega32a.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x0000000000000066       0x3c e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_copy_data.o)
+                0x0000000000000066                __do_copy_data
+                0x0000000000000094                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00000000000000a2        0x8 E:/Programs/Microchip Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/xc8/avr/lib/avr5/memx-const/crtatmega32a.o
+ *(.init9)
+                0x00000000000000aa                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00000000000000aa        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_exit.o)
+                0x00000000000000aa                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00000000000000aa        0x4 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00000000000000ae                _etext = .
+
+.data           0x0000000000800060        0x0 load address 0x00000000000000ae
+                [!provide]                        PROVIDE (__data_start, .)
+ *(.gnu.linkonce.d*)
+ *(.gnu.linkonce.r*)
+                0x0000000000800060                . = ALIGN (0x2)
+                0x0000000000800060                _edata = .
+                [!provide]                        PROVIDE (__data_end, .)
+
+.bss            0x0000000000800060        0x2
+                [!provide]                        PROVIDE (__bss_start, .)
+ *(COMMON)
+ COMMON         0x0000000000800060        0x2 APPLICATION/APP_Interface.o
+                0x0000000000800060                Previous_State
+                0x0000000000800061                Current_State
+                [!provide]                        PROVIDE (__bss_end, .)
+                0x00000000000000ae                __data_load_start = LOADADDR (.data)
+                0x00000000000000ae                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x0000000000800062        0x0
+                [!provide]                        PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                [!provide]                        PROVIDE (__noinit_end, .)
+                0x0000000000800062                _end = .
+
+.eeprom         0x0000000000810000        0x0
+ *(.eeprom*)
+                0x0000000000810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x2f
+ *(.comment)
+ .comment       0x0000000000000000       0x2f APPLICATION/APP_Interface.o
+                                         0x30 (size before relaxing)
+ .comment       0x000000000000002f       0x30 EHAL/BLUE LED/BLUE_LED_Interface.o
+ .comment       0x000000000000002f       0x30 EHAL/LCD_4x20/LCD_Interface.o
+ .comment       0x000000000000002f       0x30 EHAL/Potentiometer/Potentiometer_Interface.o
+ .comment       0x000000000000002f       0x30 main.o
+ .comment       0x000000000000002f       0x30 MCAL/ADC/ADC_Interface.o
+ .comment       0x000000000000002f       0x30 MCAL/DIO/DIO_Interface.o
+ .comment       0x000000000000002f       0x30 MCAL/Interrupts/External/EXT_INT_Interface.o
+ .comment       0x000000000000002f       0x30 MCAL/TIMERS/TIMER 0/TIMER0_Interface.o
+ .comment       0x000000000000002f       0x30 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(exit.o)
+ .comment       0x000000000000002f       0x30 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(_Exit.o)
+
+.note.GNU-stack
+                0x0000000000000000        0x0
+ .note.GNU-stack
+                0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(exit.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(_Exit.o)
+
+.stack.descriptors.hdr
+                0x0000000000000000        0xe
+ .stack.descriptors.hdr
+                0x0000000000000000        0xe e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_exit.o)
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000      0x208
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000       0x58 APPLICATION/APP_Interface.o
+ .debug_aranges
+                0x0000000000000058       0x38 EHAL/BLUE LED/BLUE_LED_Interface.o
+ .debug_aranges
+                0x0000000000000090       0x60 EHAL/LCD_4x20/LCD_Interface.o
+ .debug_aranges
+                0x00000000000000f0       0x28 EHAL/Potentiometer/Potentiometer_Interface.o
+ .debug_aranges
+                0x0000000000000118       0x20 main.o
+ .debug_aranges
+                0x0000000000000138       0x30 MCAL/ADC/ADC_Interface.o
+ .debug_aranges
+                0x0000000000000168       0x40 MCAL/DIO/DIO_Interface.o
+ .debug_aranges
+                0x00000000000001a8       0x38 MCAL/Interrupts/External/EXT_INT_Interface.o
+ .debug_aranges
+                0x00000000000001e0       0x28 MCAL/TIMERS/TIMER 0/TIMER0_Interface.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000     0x3b62
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x0000000000000000      0x4e6 E:/Programs/Microchip Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/xc8/avr/lib/avr5/memx-const/crtatmega32a.o
+ .debug_info    0x00000000000004e6      0x730 APPLICATION/APP_Interface.o
+ .debug_info    0x0000000000000c16      0x4ee EHAL/BLUE LED/BLUE_LED_Interface.o
+ .debug_info    0x0000000000001104      0xf6b EHAL/LCD_4x20/LCD_Interface.o
+ .debug_info    0x000000000000206f      0x3ea EHAL/Potentiometer/Potentiometer_Interface.o
+ .debug_info    0x0000000000002459      0x2ad main.o
+ .debug_info    0x0000000000002706      0x447 MCAL/ADC/ADC_Interface.o
+ .debug_info    0x0000000000002b4d      0x5d3 MCAL/DIO/DIO_Interface.o
+ .debug_info    0x0000000000003120      0x733 MCAL/Interrupts/External/EXT_INT_Interface.o
+ .debug_info    0x0000000000003853      0x30f MCAL/TIMERS/TIMER 0/TIMER0_Interface.o
+
+.debug_abbrev   0x0000000000000000      0xc5b
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000      0x4a3 E:/Programs/Microchip Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/xc8/avr/lib/avr5/memx-const/crtatmega32a.o
+ .debug_abbrev  0x00000000000004a3      0x11e APPLICATION/APP_Interface.o
+ .debug_abbrev  0x00000000000005c1       0x9a EHAL/BLUE LED/BLUE_LED_Interface.o
+ .debug_abbrev  0x000000000000065b      0x1f3 EHAL/LCD_4x20/LCD_Interface.o
+ .debug_abbrev  0x000000000000084e       0xbd EHAL/Potentiometer/Potentiometer_Interface.o
+ .debug_abbrev  0x000000000000090b       0x5b main.o
+ .debug_abbrev  0x0000000000000966       0xd9 MCAL/ADC/ADC_Interface.o
+ .debug_abbrev  0x0000000000000a3f       0xb2 MCAL/DIO/DIO_Interface.o
+ .debug_abbrev  0x0000000000000af1       0xe1 MCAL/Interrupts/External/EXT_INT_Interface.o
+ .debug_abbrev  0x0000000000000bd2       0x89 MCAL/TIMERS/TIMER 0/TIMER0_Interface.o
+
+.debug_line     0x0000000000000000     0x127d
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x0000000000000000      0x119 E:/Programs/Microchip Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/xc8/avr/lib/avr5/memx-const/crtatmega32a.o
+ .debug_line    0x0000000000000119      0x353 APPLICATION/APP_Interface.o
+ .debug_line    0x000000000000046c       0xf5 EHAL/BLUE LED/BLUE_LED_Interface.o
+ .debug_line    0x0000000000000561      0x493 EHAL/LCD_4x20/LCD_Interface.o
+ .debug_line    0x00000000000009f4       0xdf EHAL/Potentiometer/Potentiometer_Interface.o
+ .debug_line    0x0000000000000ad3       0x69 main.o
+ .debug_line    0x0000000000000b3c      0x16a MCAL/ADC/ADC_Interface.o
+ .debug_line    0x0000000000000ca6      0x345 MCAL/DIO/DIO_Interface.o
+ .debug_line    0x0000000000000feb      0x1b1 MCAL/Interrupts/External/EXT_INT_Interface.o
+ .debug_line    0x000000000000119c       0xe1 MCAL/TIMERS/TIMER 0/TIMER0_Interface.o
+
+.debug_frame    0x0000000000000000      0x470
+ *(.debug_frame)
+ .debug_frame   0x0000000000000000       0xec APPLICATION/APP_Interface.o
+ .debug_frame   0x00000000000000ec       0x54 EHAL/BLUE LED/BLUE_LED_Interface.o
+ .debug_frame   0x0000000000000140      0x184 EHAL/LCD_4x20/LCD_Interface.o
+ .debug_frame   0x00000000000002c4       0x34 EHAL/Potentiometer/Potentiometer_Interface.o
+ .debug_frame   0x00000000000002f8       0x24 main.o
+ .debug_frame   0x000000000000031c       0x44 MCAL/ADC/ADC_Interface.o
+ .debug_frame   0x0000000000000360       0x64 MCAL/DIO/DIO_Interface.o
+ .debug_frame   0x00000000000003c4       0x78 MCAL/Interrupts/External/EXT_INT_Interface.o
+ .debug_frame   0x000000000000043c       0x34 MCAL/TIMERS/TIMER 0/TIMER0_Interface.o
+
+.debug_str      0x0000000000000000      0x36a
+ *(.debug_str)
+ .debug_str     0x0000000000000000      0x196 E:/Programs/Microchip Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/xc8/avr/lib/avr5/memx-const/crtatmega32a.o
+ .debug_str     0x0000000000000196       0xa0 APPLICATION/APP_Interface.o
+ .debug_str     0x0000000000000236       0x43 EHAL/BLUE LED/BLUE_LED_Interface.o
+ .debug_str     0x0000000000000279       0x58 EHAL/LCD_4x20/LCD_Interface.o
+ .debug_str     0x00000000000002d1       0x23 EHAL/Potentiometer/Potentiometer_Interface.o
+ .debug_str     0x00000000000002f4       0x12 main.o
+ .debug_str     0x0000000000000306        0xf MCAL/ADC/ADC_Interface.o
+ .debug_str     0x0000000000000315        0xc MCAL/DIO/DIO_Interface.o
+ .debug_str     0x0000000000000321       0x3a MCAL/Interrupts/External/EXT_INT_Interface.o
+ .debug_str     0x000000000000035b        0xf MCAL/TIMERS/TIMER 0/TIMER0_Interface.o
+
+.debug_loc      0x0000000000000000     0x15bb
+ *(.debug_loc)
+ .debug_loc     0x0000000000000000      0x15c APPLICATION/APP_Interface.o
+ .debug_loc     0x000000000000015c      0xbd7 EHAL/LCD_4x20/LCD_Interface.o
+ .debug_loc     0x0000000000000d33       0x74 EHAL/Potentiometer/Potentiometer_Interface.o
+ .debug_loc     0x0000000000000da7       0xa1 MCAL/ADC/ADC_Interface.o
+ .debug_loc     0x0000000000000e48      0x460 MCAL/DIO/DIO_Interface.o
+ .debug_loc     0x00000000000012a8      0x313 MCAL/Interrupts/External/EXT_INT_Interface.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x0000000000000000      0x178
+ *(.debug_ranges)
+ .debug_ranges  0x0000000000000000       0x48 APPLICATION/APP_Interface.o
+ .debug_ranges  0x0000000000000048       0x28 EHAL/BLUE LED/BLUE_LED_Interface.o
+ .debug_ranges  0x0000000000000070       0x50 EHAL/LCD_4x20/LCD_Interface.o
+ .debug_ranges  0x00000000000000c0       0x18 EHAL/Potentiometer/Potentiometer_Interface.o
+ .debug_ranges  0x00000000000000d8       0x10 main.o
+ .debug_ranges  0x00000000000000e8       0x20 MCAL/ADC/ADC_Interface.o
+ .debug_ranges  0x0000000000000108       0x30 MCAL/DIO/DIO_Interface.o
+ .debug_ranges  0x0000000000000138       0x28 MCAL/Interrupts/External/EXT_INT_Interface.o
+ .debug_ranges  0x0000000000000160       0x18 MCAL/TIMERS/TIMER 0/TIMER0_Interface.o
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(Kylian Tech.elf elf32-avr)
+LOAD linker stubs
+LOAD data_init
+
+.note.gnu.avr.deviceinfo
+                0x0000000000000000       0x3c
+ .note.gnu.avr.deviceinfo
+                0x0000000000000000       0x3c E:/Programs/Microchip Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/xc8/avr/lib/avr5/memx-const/crtatmega32a.o
+
+.bss.Interrupt_Flag
+                0x0000000000800064        0x1
+ .bss.Interrupt_Flag
+                0x0000000000800064        0x1 APPLICATION/APP_Interface.o
+                0x0000000000800064                Interrupt_Flag
+
+.bss.OVF_Counter
+                0x0000000000800062        0x2
+ .bss.OVF_Counter
+                0x0000000000800062        0x2 APPLICATION/APP_Interface.o
+                0x0000000000800062                OVF_Counter
+
+.progmemx.data  0x00000000000000ae       0x25
+ .progmemx.data
+                0x00000000000000ae       0x25 APPLICATION/APP_Interface.o
+
+.text.DIO_SetPin_Direction
+                0x00000000000000d4       0xfe
+ .text.DIO_SetPin_Direction
+                0x00000000000000d4       0xfe MCAL/DIO/DIO_Interface.o
+                0x00000000000000d4                DIO_SetPin_Direction
+
+.text.DIO_SetPin_Value
+                0x00000000000001d2       0xfe
+ .text.DIO_SetPin_Value
+                0x00000000000001d2       0xfe MCAL/DIO/DIO_Interface.o
+                0x00000000000001d2                DIO_SetPin_Value
+
+.text.LCD_Write_Command
+                0x00000000000002d0       0xd4
+ .text.LCD_Write_Command
+                0x00000000000002d0       0xd4 EHAL/LCD_4x20/LCD_Interface.o
+                0x00000000000002d0                LCD_Write_Command
+
+.text.LCD_Write_Character
+                0x00000000000003a4       0xd4
+ .text.LCD_Write_Character
+                0x00000000000003a4       0xd4 EHAL/LCD_4x20/LCD_Interface.o
+                0x00000000000003a4                LCD_Write_Character
+
+.text.LCD_Initialize
+                0x0000000000000478       0x82
+ .text.LCD_Initialize
+                0x0000000000000478       0x82 EHAL/LCD_4x20/LCD_Interface.o
+                0x0000000000000478                LCD_Initialize
+
+.text.__vector_11
+                0x00000000000004fa       0x7a
+ .text.__vector_11
+                0x00000000000004fa       0x7a APPLICATION/APP_Interface.o
+                0x00000000000004fa                __vector_11
+
+.text.Check_State
+                0x0000000000000574       0x58
+ .text.Check_State
+                0x0000000000000574       0x58 APPLICATION/APP_Interface.o
+                0x0000000000000574                Check_State
+
+.text.Ignition_Task
+                0x00000000000005cc       0x3c
+ .text.Ignition_Task
+                0x00000000000005cc       0x3c APPLICATION/APP_Interface.o
+                0x00000000000005cc                Ignition_Task
+
+.text.Off_Task  0x0000000000000608       0x3a
+ .text.Off_Task
+                0x0000000000000608       0x3a APPLICATION/APP_Interface.o
+                0x0000000000000608                Off_Task
+
+.text.Ready_Task
+                0x0000000000000642       0x38
+ .text.Ready_Task
+                0x0000000000000642       0x38 APPLICATION/APP_Interface.o
+                0x0000000000000642                Ready_Task
+
+.text.ADC_Read  0x000000000000067a       0x38
+ .text.ADC_Read
+                0x000000000000067a       0x38 MCAL/ADC/ADC_Interface.o
+                0x000000000000067a                ADC_Read
+
+.text.Run       0x00000000000006b2       0x30
+ .text.Run      0x00000000000006b2       0x30 APPLICATION/APP_Interface.o
+                0x00000000000006b2                Run
+
+.text.LCD_Write_String
+                0x00000000000006e2       0x2e
+ .text.LCD_Write_String
+                0x00000000000006e2       0x2e EHAL/LCD_4x20/LCD_Interface.o
+                0x00000000000006e2                LCD_Write_String
+
+.text.Set_Global_INT
+                0x0000000000000710       0x2c
+ .text.Set_Global_INT
+                0x0000000000000710       0x2c MCAL/Interrupts/External/EXT_INT_Interface.o
+                0x0000000000000710                Set_Global_INT
+
+.text.LCD_LINE_position
+                0x000000000000073c       0x28
+ .text.LCD_LINE_position
+                0x000000000000073c       0x28 EHAL/LCD_4x20/LCD_Interface.o
+                0x000000000000073c                LCD_LINE_position
+
+.text.ADC_Initializ
+                0x0000000000000764       0x28
+ .text.ADC_Initializ
+                0x0000000000000764       0x28 MCAL/ADC/ADC_Interface.o
+                0x0000000000000764                ADC_Initializ
+
+.text.exit      0x000000000000078c       0x16
+ .text.exit     0x000000000000078c       0x16 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(exit.o)
+                0x000000000000078c                exit
+
+.text.VR1_Read  0x00000000000007a2       0x14
+ .text.VR1_Read
+                0x00000000000007a2       0x14 EHAL/Potentiometer/Potentiometer_Interface.o
+                0x00000000000007a2                VR1_Read
+
+.text.timer0_init
+                0x00000000000007b6       0x14
+ .text.timer0_init
+                0x00000000000007b6       0x14 MCAL/TIMERS/TIMER 0/TIMER0_Interface.o
+                0x00000000000007b6                timer0_init
+
+.text.app_init  0x00000000000007ca       0x10
+ .text.app_init
+                0x00000000000007ca       0x10 APPLICATION/APP_Interface.o
+                0x00000000000007ca                app_init
+
+.text.VR1_init  0x00000000000007da       0x10
+ .text.VR1_init
+                0x00000000000007da       0x10 EHAL/Potentiometer/Potentiometer_Interface.o
+                0x00000000000007da                VR1_init
+
+.text.BLUE_LED_Initializ
+                0x00000000000007ea        0xe
+ .text.BLUE_LED_Initializ
+                0x00000000000007ea        0xe EHAL/BLUE LED/BLUE_LED_Interface.o
+                0x00000000000007ea                BLUE_LED_Initializ
+
+.text.BLUE_LED_ON
+                0x00000000000007f8        0xe
+ .text.BLUE_LED_ON
+                0x00000000000007f8        0xe EHAL/BLUE LED/BLUE_LED_Interface.o
+                0x00000000000007f8                BLUE_LED_ON
+
+.text.BLUE_LED_OFF
+                0x0000000000000806        0xe
+ .text.BLUE_LED_OFF
+                0x0000000000000806        0xe EHAL/BLUE LED/BLUE_LED_Interface.o
+                0x0000000000000806                BLUE_LED_OFF
+
+.text.LCD_Clear
+                0x0000000000000814        0xa
+ .text.LCD_Clear
+                0x0000000000000814        0xa EHAL/LCD_4x20/LCD_Interface.o
+                0x0000000000000814                LCD_Clear
+
+.text.main      0x000000000000081e        0xa
+ .text.main     0x000000000000081e        0xa main.o
+                0x000000000000081e                main
+
+.text.timer0_deinit
+                0x0000000000000828        0xa
+ .text.timer0_deinit
+                0x0000000000000828        0xa MCAL/TIMERS/TIMER 0/TIMER0_Interface.o
+                0x0000000000000828                timer0_deinit
+
+.text.app_main  0x0000000000000832        0x8
+ .text.app_main
+                0x0000000000000832        0x8 APPLICATION/APP_Interface.o
+                0x0000000000000832                app_main
+
+.text           0x000000000000083a        0x4
+ .text          0x000000000000083a        0x4 E:/Programs/Microchip Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/xc8/avr/lib/avr5/memx-const/crtatmega32a.o
+                0x000000000000083a                __vector_1
+                0x000000000000083a                __vector_12
+                0x000000000000083a                __bad_interrupt
+                0x000000000000083a                __vector_6
+                0x000000000000083a                __vector_3
+                0x000000000000083a                __vector_13
+                0x000000000000083a                __vector_17
+                0x000000000000083a                __vector_19
+                0x000000000000083a                __vector_7
+                0x000000000000083a                __vector_5
+                0x000000000000083a                __vector_4
+                0x000000000000083a                __vector_9
+                0x000000000000083a                __vector_2
+                0x000000000000083a                __vector_15
+                0x000000000000083a                __vector_8
+                0x000000000000083a                __vector_14
+                0x000000000000083a                __vector_10
+                0x000000000000083a                __vector_16
+                0x000000000000083a                __vector_18
+                0x000000000000083a                __vector_20
+
+.text._Exit     0x000000000000083e        0x4
+ .text._Exit    0x000000000000083e        0x4 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(_Exit.o)
+                0x000000000000083e                _Exit
+
+.text.__dummy_fini
+                0x0000000000000842        0x2
+ .text.__dummy_fini
+                0x0000000000000842        0x2 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(exit.o)
+                0x0000000000000842                _fini
+
+.text.__dummy_funcs_on_exit
+                0x0000000000000844        0x2
+ .text.__dummy_funcs_on_exit
+                0x0000000000000844        0x2 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(exit.o)
+                0x0000000000000844                __funcs_on_exit
+
+.text.__dummy_simulator_exit
+                0x0000000000000846        0x2
+ .text.__dummy_simulator_exit
+                0x0000000000000846        0x2 e:/programs/mplab xc8/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(exit.o)
+                0x0000000000000846                __simulator_exit
